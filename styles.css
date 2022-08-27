@@ -1,0 +1,32 @@
+/*Long */
+.info  {
+    border:2px solid rgb(63, 63, 224);
+    padding: 10px;
+    background: #699cd642;
+
+}
+
+.info-text{
+    font-weight: bold   ;
+}
+
+
+/*Name */
+body h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/*Fone */
+body{
+    background: rgba(212, 209, 209, 0.897);
+}
+
+/*H2 */
+body h2{
+    color:blue;
+    font-size: 20px;
+}
+
+/*img */
+body img {
+    border-radius: 45px;
+}
